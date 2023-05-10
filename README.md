@@ -1,2 +1,2 @@
-# github-dedmo
+# github-demo
 Curso de Git
